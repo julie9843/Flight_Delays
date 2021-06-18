@@ -1,2 +1,2 @@
-# Midterm_project
-Midterm project for Lighthouse Labs
+### Predicting flight delays 
+
